@@ -1,0 +1,25 @@
+{
+  "scenario": "1D wet-bed dam break (Stoker benchmark)",
+  "channel_length_m": 1000.0,
+  "nx": 200,
+  "dx_m": 5.0,
+  "t_final_s": 60.0,
+  "dt_snapshot_s": 1.0,
+  "n_snapshots": 61,
+  "n_steps": 180,
+  "min_depth_m": 1.0,
+  "mass_initial_m2": 1500.0,
+  "mass_final_m2": 1500.0,
+  "mass_balance_error_m2": -1.069878294792757e-13,
+  "stoker_intermediate_plateau": {
+    "h_middle": 1.453840892374573,
+    "u_middle": 1.3058337531817275,
+    "left_fan_head": -4.4294469180700204,
+    "left_fan_tail": -2.4706962882974293,
+    "right_shock_speed": 4.183127921958328
+  },
+  "files": {
+    "matrix_csv": "water_level_matrix.csv",
+    "series_csv": "water_level_series.csv"
+  }
+}
