@@ -4,7 +4,7 @@
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](requirements.txt)
 [![Tests](https://github.com/BeaverMakerLab/build-your-own-hydro1d/actions/workflows/test.yml/badge.svg)](https://github.com/BeaverMakerLab/build-your-own-hydro1d/actions)
 
-本项目是微信公众号 **【水鉴Lab】** 一维水动力模型系列教程的官方配套开源代码库。
+本项目是 **【水鉴Lab】** 一维水动力模型系列教程的开源代码库。
 
 旨在帮助水利工程、土木环境、力学与计算机背景的学习者与工程师，**抛开商业软件黑盒，用纯粹、简洁、严谨的 Python 代码从零实现圣维南方程（Saint-Venant Equations / 1D 浅水方程）求解器**。
 
